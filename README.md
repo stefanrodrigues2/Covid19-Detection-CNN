@@ -1,1 +1,3 @@
-# Covid19-Detection-CNN
+Designed and implemented a Convolutional Neural Network (CNN) classification model using chest X-ray images, achieving an accuracy of 90%. Employed data augmentation, early stopping, and dropout techniques to enhance model generalization. Leveraged CNNs to extract insightful image features and conducted an in-depth analysis involving network architecture clarification, convergence tracking, and overfitting mitigation strategies.
+
+Implemented an advanced phase of the project by utilizing a pretrained ResNet-50 model for transfer learning. Adapted the ResNet-50 architecture, fine-tuning it to classify Covid-19 and Normal chest X-ray images, and leveraging its pre-trained ImageNet weights. This strategic application of transfer learning resulted in exceptional accuracy outcomes. This integrated approach underscores my proficiency in optimizing existing neural architectures for specialized medical image classification tasks.
